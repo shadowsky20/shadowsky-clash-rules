@@ -1032,6 +1032,7 @@
 - DOMAIN-SUFFIX,pstatp.com,Direct
 - DOMAIN-SUFFIX,snssdk.com,Direct
 - DOMAIN-SUFFIX,toutiao.com,Direct
+- DOMAIN,cdn.jsdelivr.net,Direct
 - GEOIP,CN,Direct
 
 # Local
