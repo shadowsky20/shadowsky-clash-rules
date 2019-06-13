@@ -875,165 +875,165 @@
 
 # China Site
 
-- DOMAIN-SUFFIX,cn,Direct
+- DOMAIN-SUFFIX,cn,DIRECT
 
 # 阿里
-- DOMAIN-SUFFIX,alibaba.com,Direct
-- DOMAIN-SUFFIX,alicdn.com,Direct
-- DOMAIN-SUFFIX,alipay.com,Direct
-- DOMAIN-SUFFIX,alipayobjects.com,Direct
-- DOMAIN-SUFFIX,aliyun.com,Direct
-- DOMAIN-SUFFIX,taobao.com,Direct
-- DOMAIN-SUFFIX,tmall.com,Direct
+- DOMAIN-SUFFIX,alibaba.com,DIRECT
+- DOMAIN-SUFFIX,alicdn.com,DIRECT
+- DOMAIN-SUFFIX,alipay.com,DIRECT
+- DOMAIN-SUFFIX,alipayobjects.com,DIRECT
+- DOMAIN-SUFFIX,aliyun.com,DIRECT
+- DOMAIN-SUFFIX,taobao.com,DIRECT
+- DOMAIN-SUFFIX,tmall.com,DIRECT
 
 # 优酷
-- DOMAIN-SUFFIX,soku.com,Direct
-- DOMAIN-SUFFIX,ykimg.com,Direct
-- DOMAIN-SUFFIX,youku.com,Direct
+- DOMAIN-SUFFIX,soku.com,DIRECT
+- DOMAIN-SUFFIX,ykimg.com,DIRECT
+- DOMAIN-SUFFIX,youku.com,DIRECT
 
 # 微博
-- DOMAIN-SUFFIX,miaopai.com,Direct
-- DOMAIN-SUFFIX,sinaimg.com,Direct
-- DOMAIN-SUFFIX,weibo.cn,Direct
-- DOMAIN-SUFFIX,weibo.com,Direct
+- DOMAIN-SUFFIX,miaopai.com,DIRECT
+- DOMAIN-SUFFIX,sinaimg.com,DIRECT
+- DOMAIN-SUFFIX,weibo.cn,DIRECT
+- DOMAIN-SUFFIX,weibo.com,DIRECT
 
 # 饿了么
-- DOMAIN-SUFFIX,ele.me,Direct
-- DOMAIN-SUFFIX,elemecdn.com,Direct
+- DOMAIN-SUFFIX,ele.me,DIRECT
+- DOMAIN-SUFFIX,elemecdn.com,DIRECT
 
 # 高德
-- DOMAIN-SUFFIX,amap.com,Direct
+- DOMAIN-SUFFIX,amap.com,DIRECT
 
 # 友盟
-- DOMAIN-SUFFIX,umeng.com,Direct
-- DOMAIN-SUFFIX,umsns.com,Direct
+- DOMAIN-SUFFIX,umeng.com,DIRECT
+- DOMAIN-SUFFIX,umsns.com,DIRECT
 
 # 京东
-- DOMAIN-SUFFIX,360buyimg.com,Direct
-- DOMAIN-SUFFIX,jcloudcache.com,Direct
-- DOMAIN-SUFFIX,jd.com,Direct
-- DOMAIN-SUFFIX,jdpay.com,Direct
-- DOMAIN-SUFFIX,joybuy.com,Direct
+- DOMAIN-SUFFIX,360buyimg.com,DIRECT
+- DOMAIN-SUFFIX,jcloudcache.com,DIRECT
+- DOMAIN-SUFFIX,jd.com,DIRECT
+- DOMAIN-SUFFIX,jdpay.com,DIRECT
+- DOMAIN-SUFFIX,joybuy.com,DIRECT
 
 # 腾讯
-- DOMAIN-SUFFIX,qcloud.com,Direct
-- DOMAIN-SUFFIX,qq.com,Direct
-- DOMAIN-SUFFIX,tencent.com,Direct
+- DOMAIN-SUFFIX,qcloud.com,DIRECT
+- DOMAIN-SUFFIX,qq.com,DIRECT
+- DOMAIN-SUFFIX,tencent.com,DIRECT
 
 # 知乎
-- DOMAIN-SUFFIX,zhihu.com,Direct
-- DOMAIN-SUFFIX,zhimg.com,Direct
+- DOMAIN-SUFFIX,zhihu.com,DIRECT
+- DOMAIN-SUFFIX,zhimg.com,DIRECT
 
 # 爱奇艺
-- DOMAIN-SUFFIX,71.com,Direct
-- DOMAIN-SUFFIX,iqiyi.com,Direct
-- DOMAIN-SUFFIX,iqiyipic.com,Direct
-- DOMAIN-SUFFIX,qiyi.com,Direct
-- DOMAIN-SUFFIX,qiyipic.com,Direct
-- DOMAIN-SUFFIX,qy.net,Direct
+- DOMAIN-SUFFIX,71.com,DIRECT
+- DOMAIN-SUFFIX,iqiyi.com,DIRECT
+- DOMAIN-SUFFIX,iqiyipic.com,DIRECT
+- DOMAIN-SUFFIX,qiyi.com,DIRECT
+- DOMAIN-SUFFIX,qiyipic.com,DIRECT
+- DOMAIN-SUFFIX,qy.net,DIRECT
 
 # 百度
-- DOMAIN-SUFFIX,baidu.com,Direct
-- DOMAIN-SUFFIX,bdstatic.com,Direct
-- DOMAIN-SUFFIX,taihe.com,Direct
+- DOMAIN-SUFFIX,baidu.com,DIRECT
+- DOMAIN-SUFFIX,bdstatic.com,DIRECT
+- DOMAIN-SUFFIX,taihe.com,DIRECT
 
 # 360
-- DOMAIN-SUFFIX,360.com,Direct
-- DOMAIN-SUFFIX,qhimg.com,Direct
-- DOMAIN-SUFFIX,qhimgs4.com,Direct
-- DOMAIN-SUFFIX,qhres.com,Direct
-- DOMAIN-SUFFIX,qihucdn.com,Direct
-- DOMAIN-SUFFIX,so.com,Direct
+- DOMAIN-SUFFIX,360.com,DIRECT
+- DOMAIN-SUFFIX,qhimg.com,DIRECT
+- DOMAIN-SUFFIX,qhimgs4.com,DIRECT
+- DOMAIN-SUFFIX,qhres.com,DIRECT
+- DOMAIN-SUFFIX,qihucdn.com,DIRECT
+- DOMAIN-SUFFIX,so.com,DIRECT
 
 # 七牛
-- DOMAIN-SUFFIX,qiniu.com,Direct
-- DOMAIN-SUFFIX,qiniucdn.com,Direct
-- DOMAIN-SUFFIX,qiniudn.com,Direct
+- DOMAIN-SUFFIX,qiniu.com,DIRECT
+- DOMAIN-SUFFIX,qiniucdn.com,DIRECT
+- DOMAIN-SUFFIX,qiniudn.com,DIRECT
 
 # 又拍云
-- DOMAIN-SUFFIX,upyun.com,Direct
+- DOMAIN-SUFFIX,upyun.com,DIRECT
 
 # YY
-- DOMAIN-SUFFIX,huya.com,Direct
-- DOMAIN-SUFFIX,msstatic.com,Direct
-- DOMAIN-SUFFIX,yy.com,Direct
+- DOMAIN-SUFFIX,huya.com,DIRECT
+- DOMAIN-SUFFIX,msstatic.com,DIRECT
+- DOMAIN-SUFFIX,yy.com,DIRECT
 
 # 星域云（迅雷）
-- DOMAIN-SUFFIX,xunlei.com,Direct
-- DOMAIN-SUFFIX,xycdn.com,Direct
-- DOMAIN-SUFFIX,xycloud.com,Direct
+- DOMAIN-SUFFIX,xunlei.com,DIRECT
+- DOMAIN-SUFFIX,xycdn.com,DIRECT
+- DOMAIN-SUFFIX,xycloud.com,DIRECT
 
 # 蓝汛
-- DOMAIN-SUFFIX,chinacache.com,Direct
+- DOMAIN-SUFFIX,chinacache.com,DIRECT
 
 # 掘金
-- DOMAIN-SUFFIX,juejin.im,Direct
+- DOMAIN-SUFFIX,juejin.im,DIRECT
 
 # 稀土
-- DOMAIN-SUFFIX,xitu.io,Direct
+- DOMAIN-SUFFIX,xitu.io,DIRECT
 
 # 哔哩哔哩
-- DOMAIN-SUFFIX,acg.tv,Direct
-- DOMAIN-SUFFIX,acgvideo.com,Direct
-- DOMAIN-SUFFIX,bilibili.cn,Direct
-- DOMAIN-SUFFIX,bilibili.com,Direct
-- DOMAIN-SUFFIX,hdslb.com,Direct
+- DOMAIN-SUFFIX,acg.tv,DIRECT
+- DOMAIN-SUFFIX,acgvideo.com,DIRECT
+- DOMAIN-SUFFIX,bilibili.cn,DIRECT
+- DOMAIN-SUFFIX,bilibili.com,DIRECT
+- DOMAIN-SUFFIX,hdslb.com,DIRECT
 
 # 什么值得买
-- DOMAIN-SUFFIX,smzdm.com,Direct
+- DOMAIN-SUFFIX,smzdm.com,DIRECT
 
 # 网易
-- DOMAIN-SUFFIX,126.net,Direct
-- DOMAIN-SUFFIX,163.com,Direct
+- DOMAIN-SUFFIX,126.net,DIRECT
+- DOMAIN-SUFFIX,163.com,DIRECT
 
 # 美团
-- DOMAIN-SUFFIX,meituan.com,Direct
-- DOMAIN-SUFFIX,meituan.net,Direct
+- DOMAIN-SUFFIX,meituan.com,DIRECT
+- DOMAIN-SUFFIX,meituan.net,DIRECT
 
 # 抖音
-- DOMAIN-SUFFIX,aweme.snssdk.com,Direct
-- DOMAIN-SUFFIX,douyin.com,Direct
+- DOMAIN-SUFFIX,aweme.snssdk.com,DIRECT
+- DOMAIN-SUFFIX,douyin.com,DIRECT
 
 # 招行
-- DOMAIN-SUFFIX,cmbchina.com,Direct
+- DOMAIN-SUFFIX,cmbchina.com,DIRECT
 
 # 建行
-- DOMAIN-SUFFIX,ccb.com,Direct
+- DOMAIN-SUFFIX,ccb.com,DIRECT
 
 # 联通
-- DOMAIN-SUFFIX,10010.com,Direct
+- DOMAIN-SUFFIX,10010.com,DIRECT
 
 # 斗鱼
-- DOMAIN-SUFFIX,douyu.com,Direct
-- DOMAIN-SUFFIX,douyutv.com,Direct
+- DOMAIN-SUFFIX,douyu.com,DIRECT
+- DOMAIN-SUFFIX,douyutv.com,DIRECT
 
 # 熊猫 TV
-- DOMAIN-SUFFIX,panda.tv,Direct
+- DOMAIN-SUFFIX,panda.tv,DIRECT
 
 # 搜狗
-- DOMAIN-SUFFIX,sogou.com,Direct
+- DOMAIN-SUFFIX,sogou.com,DIRECT
 
 # 威锋
-- DOMAIN-SUFFIX,feng.com,Direct
+- DOMAIN-SUFFIX,feng.com,DIRECT
 
 # CloudXNS
-- DOMAIN-SUFFIX,cloudxns.net,Direct
+- DOMAIN-SUFFIX,cloudxns.net,DIRECT
 
 # 豆瓣
-- DOMAIN-SUFFIX,douban.com,Direct
-- DOMAIN-SUFFIX,doubanio.com,Direct
+- DOMAIN-SUFFIX,douban.com,DIRECT
+- DOMAIN-SUFFIX,doubanio.com,DIRECT
 
 # 其他
-- DOMAIN-SUFFIX,chn-ix.net,Direct
-- DOMAIN-SUFFIX,fir.im,Direct
-- DOMAIN-SUFFIX,hnol.net,Direct
-- DOMAIN-SUFFIX,ip138.com,Direct
-- DOMAIN-SUFFIX,ipip.net,Direct
-- DOMAIN-SUFFIX,pstatp.com,Direct
-- DOMAIN-SUFFIX,snssdk.com,Direct
-- DOMAIN-SUFFIX,toutiao.com,Direct
-- DOMAIN,cdn.jsdelivr.net,Direct
-- GEOIP,CN,Direct
+- DOMAIN-SUFFIX,chn-ix.net,DIRECT
+- DOMAIN-SUFFIX,fir.im,DIRECT
+- DOMAIN-SUFFIX,hnol.net,DIRECT
+- DOMAIN-SUFFIX,ip138.com,DIRECT
+- DOMAIN-SUFFIX,ipip.net,DIRECT
+- DOMAIN-SUFFIX,pstatp.com,DIRECT
+- DOMAIN-SUFFIX,snssdk.com,DIRECT
+- DOMAIN-SUFFIX,toutiao.com,DIRECT
+- DOMAIN,cdn.jsdelivr.net,DIRECT
+- GEOIP,CN,DIRECT
 
 # Local
 
