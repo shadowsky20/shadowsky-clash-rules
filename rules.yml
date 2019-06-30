@@ -18,15 +18,15 @@
 # Stream Services
 
 # AbemaTV
-- DOMAIN-SUFFIX,abema.io,Stream Services
-- DOMAIN-SUFFIX,ameba.jp,Stream Services
-- DOMAIN-SUFFIX,hayabusa.io,Stream Services
-- DOMAIN,linear-abematv.akamaized.net,Stream Services
+- DOMAIN-SUFFIX,abema.io,Netflix
+- DOMAIN-SUFFIX,ameba.jp,Netflix
+- DOMAIN-SUFFIX,hayabusa.io,Netflix
+- DOMAIN,linear-abematv.akamaized.net,Netflix
 
 # Bahamut
-- DOMAIN-SUFFIX,bahamut.com.tw,Stream Services
-- DOMAIN-SUFFIX,gamer.com.tw,Stream Services
-- DOMAIN-SUFFIX,hinet.net,Stream Services
+- DOMAIN-SUFFIX,bahamut.com.tw,Netflix
+- DOMAIN-SUFFIX,gamer.com.tw,Netflix
+- DOMAIN-SUFFIX,hinet.net,Netflix
 
 # BBC
 - DOMAIN-SUFFIX,bbc.co.uk,BBC
