@@ -1,19 +1,15 @@
 # Apple Services
-
-- DOMAIN,audio-ssl.itunes.apple.com,Proxy
-- DOMAIN,gspe1-ssl.ls.apple.com,Proxy
-- DOMAIN,itunes.apple.com,Proxy
-- DOMAIN-SUFFIX,aaplimg.com,Proxy
-- DOMAIN-SUFFIX,apple.co,Proxy
-- DOMAIN-SUFFIX,apple.com,Proxy
-- DOMAIN-SUFFIX,appstore.com,Proxy
-- DOMAIN-SUFFIX,cdn-apple.com,Proxy
-- DOMAIN-SUFFIX,crashlytics.com,Proxy
-- DOMAIN-SUFFIX,icloud-content.com,Proxy
-- DOMAIN-SUFFIX,icloud.com,Proxy
-- DOMAIN-SUFFIX,itunes.apple.com,Proxy
-- DOMAIN-SUFFIX,me.com,Proxy
-- DOMAIN-SUFFIX,mzstatic.com,Proxy
+- DOMAIN-SUFFIX,apps.apple.com,Proxy
+- DOMAIN-SUFFIX,music.apple.com,DIRECT
+- DOMAIN-SUFFIX,icloud.com,DIRECT
+- DOMAIN-SUFFIX,icloud-content.com,DIRECT
+- DOMAIN-SUFFIX,me.com,DIRECT
+- DOMAIN-SUFFIX,mzstatic.com,DIRECT
+- DOMAIN-SUFFIX,akadns.net,DIRECT
+- DOMAIN-SUFFIX,aaplimg.com,DIRECT
+- DOMAIN-SUFFIX,cdn-apple.com,DIRECT
+- DOMAIN-SUFFIX,apple.com,DIRECT
+#- DOMAIN,e.crashlytics.com,REJECT //注释此选项有助于大多数App开发者分析崩溃信息；如果您拒绝一切崩溃数据统计、搜集，请取消 # 注释。
 
 # Stream Services
 
@@ -677,16 +673,8 @@
 - DOMAIN-SUFFIX,zbrushcn.com,REJECT
 - DOMAIN-SUFFIX,zhzzx.com,REJECT
 
-# Anti GFW
 
-# Apple
-- DOMAIN-SUFFIX,appsto.re,Proxy
-- DOMAIN,api-glb-sea.smoot.apple.com,Proxy
-- DOMAIN,beta.itunes.apple.com,Proxy
-- DOMAIN,books.itunes.apple.com,Proxy
-- DOMAIN,hls.itunes.apple.com,Proxy
-- DOMAIN,itunes.apple.com,Proxy
-- DOMAIN,lookup-api.apple.com,Proxy
+# Anti GFW
 
 # Cloudflare
 - DOMAIN-SUFFIX,cloudflareresolve.com,Proxy
