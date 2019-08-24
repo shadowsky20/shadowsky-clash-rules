@@ -14,15 +14,15 @@
 # Stream Services
 
 # AbemaTV
-- DOMAIN-SUFFIX,abema.io,Netflix
-- DOMAIN-SUFFIX,ameba.jp,Netflix
-- DOMAIN-SUFFIX,hayabusa.io,Netflix
-- DOMAIN,linear-abematv.akamaized.net,Netflix
+- DOMAIN-SUFFIX,abema.io,YouTube
+- DOMAIN-SUFFIX,ameba.jp,YouTube
+- DOMAIN-SUFFIX,hayabusa.io,YouTube
+- DOMAIN,linear-abematv.akamaized.net,YouTube
 
 # Bahamut
-- DOMAIN-SUFFIX,bahamut.com.tw,Netflix
-- DOMAIN-SUFFIX,gamer.com.tw,Netflix
-- DOMAIN-SUFFIX,hinet.net,Netflix
+- DOMAIN-SUFFIX,bahamut.com.tw,YouTube
+- DOMAIN-SUFFIX,gamer.com.tw,YouTube
+- DOMAIN-SUFFIX,hinet.net,YouTube
 
 # BBC
 - DOMAIN-SUFFIX,bbc.co.uk,BBC
@@ -40,15 +40,15 @@
 - DOMAIN-SUFFIX,happyon.jp,Netflix
 
 # Jwplayer
-- DOMAIN,content.jwplatform.com,Netflix
-- DOMAIN,videos-f.jwpsrv.com,Netflix
+- DOMAIN,content.jwplatform.com,YouTube
+- DOMAIN,videos-f.jwpsrv.com,YouTube
 
 # JOOX
 - DOMAIN-SUFFIX,joox.com,Netflix
 
 # myTV Super
-- DOMAIN-SUFFIX,mytvsuper.com,Netflix
-- DOMAIN-SUFFIX,tvb.com,Netflix
+- DOMAIN-SUFFIX,mytvsuper.com,YouTube
+- DOMAIN-SUFFIX,tvb.com,YouTube
 
 # Netflix
 - DOMAIN-SUFFIX,netflix.com,Netflix
@@ -60,14 +60,14 @@
 - DOMAIN-SUFFIX,nflxvideo.net,Netflix
 
 # Spotify
-- DOMAIN-SUFFIX,scdn.co,Netflix
-- DOMAIN-SUFFIX,spotify.com,Netflix
-- DOMAIN-SUFFIX,spoti.fi,Netflix
+- DOMAIN-SUFFIX,scdn.co,YouTube
+- DOMAIN-SUFFIX,spotify.com,YouTube
+- DOMAIN-SUFFIX,spoti.fi,YouTube
 
 # YouTube
-- DOMAIN-SUFFIX,googlevideo.com,Netflix
-- DOMAIN-SUFFIX,youtube.com,Netflix
-- DOMAIN,youtubei.googleapis.com,Netflix
+- DOMAIN-SUFFIX,googlevideo.com,YouTube
+- DOMAIN-SUFFIX,youtube.com,YouTube
+- DOMAIN,youtubei.googleapis.com,YouTube
 
 # AD Blocker
 
