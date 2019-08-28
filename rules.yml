@@ -68,6 +68,10 @@
 - DOMAIN-SUFFIX,googlevideo.com,YouTube
 - DOMAIN-SUFFIX,youtube.com,YouTube
 - DOMAIN,youtubei.googleapis.com,YouTube
+- DOMAIN-SUFFIX,gv.com,YouTube
+- DOMAIN-SUFFIX,gvt0.com,YouTube
+- DOMAIN-SUFFIX,gvt1.com,YouTube
+- DOMAIN-SUFFIX,gvt3.com,YouTube
 
 # AD Blocker
 
@@ -710,10 +714,6 @@
 - DOMAIN-SUFFIX,golang.org,Proxy
 - DOMAIN-SUFFIX,googleapis.cn,Proxy
 - DOMAIN-SUFFIX,gstatic.com,Proxy
-- DOMAIN-SUFFIX,gv.com,Proxy
-- DOMAIN-SUFFIX,gvt0.com,Proxy
-- DOMAIN-SUFFIX,gvt1.com,Proxy
-- DOMAIN-SUFFIX,gvt3.com,Proxy
 - DOMAIN-SUFFIX,gwtproject.org,Proxy
 - DOMAIN-SUFFIX,itasoftware.com,Proxy
 - DOMAIN-SUFFIX,madewithcode.com,Proxy
