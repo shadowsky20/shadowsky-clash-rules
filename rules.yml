@@ -756,6 +756,7 @@
 - DOMAIN-KEYWORD,facebook,Proxy
 
 # Twitter
+- DOMAIN,video.twimg.com,YouTube
 - DOMAIN-SUFFIX,t.co,Proxy
 - DOMAIN-SUFFIX,twimg.co,Proxy
 - DOMAIN-SUFFIX,twimg.com,Proxy
