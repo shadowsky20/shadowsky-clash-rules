@@ -832,6 +832,7 @@
 - DOMAIN-SUFFIX,uptodown.com,Proxy
 - DOMAIN-SUFFIX,v2ray.com,Proxy
 - DOMAIN-SUFFIX,vimeo.com,Proxy
+- DOMAIN-SUFFIX,akamaized.net,YouTube # vimeo video is using this CDN service
 - DOMAIN-SUFFIX,vine.co,Proxy
 - DOMAIN-SUFFIX,voachinese.com,Proxy
 - DOMAIN-SUFFIX,whoer.net,Proxy
