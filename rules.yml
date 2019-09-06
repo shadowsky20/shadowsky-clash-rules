@@ -853,6 +853,7 @@
 - DOMAIN,ccmdl.adobe.com,Proxy
 - DOMAIN,media.steampowered.com,Proxy
 - DOMAIN,wego.here.com,Proxy
+- DOMAIN,codeload.github.com,Download
 - DOMAIN-KEYWORD,github,Proxy
 
 # Telegram
