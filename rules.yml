@@ -1023,6 +1023,7 @@
 - DOMAIN-SUFFIX,snssdk.com,DIRECT
 - DOMAIN-SUFFIX,toutiao.com,DIRECT
 - DOMAIN,cdn.jsdelivr.net,DIRECT
+- DOMAIN-SUFFIX,amazonaws.com,Download
 - GEOIP,CN,DIRECT
 - DOMAIN-KEYWORD,video,YouTube
 
