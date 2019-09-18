@@ -732,6 +732,7 @@
 - DOMAIN-SUFFIX,widevine.com,Proxy
 - DOMAIN-SUFFIX,x.company,Proxy
 - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Download
+- DOMAIN-SUFFIX,gvt2.com,Proxy
 - DOMAIN-SUFFIX,youtu.be,Proxy
 - DOMAIN-SUFFIX,yt.be,Proxy
 - DOMAIN-SUFFIX,ytimg.com,Proxy
