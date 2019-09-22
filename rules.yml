@@ -1031,6 +1031,7 @@
 - DOMAIN-SUFFIX,amazonaws.com,Download
 - GEOIP,CN,DIRECT
 - DOMAIN-KEYWORD,video,YouTube
+- DOMAIN-KEYWORD,download,Download
 
 # Local
 
