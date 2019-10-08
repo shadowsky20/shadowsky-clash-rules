@@ -14,15 +14,15 @@
 # Stream Services
 
 # AbemaTV
-- DOMAIN-SUFFIX,abema.io,YouTube
-- DOMAIN-SUFFIX,ameba.jp,YouTube
-- DOMAIN-SUFFIX,hayabusa.io,YouTube
-- DOMAIN,linear-abematv.akamaized.net,YouTube
+- DOMAIN-SUFFIX,abema.io,ForeignMedia
+- DOMAIN-SUFFIX,ameba.jp,ForeignMedia
+- DOMAIN-SUFFIX,hayabusa.io,ForeignMedia
+- DOMAIN,linear-abematv.akamaized.net,ForeignMedia
 
 # Bahamut
-- DOMAIN-SUFFIX,bahamut.com.tw,YouTube
-- DOMAIN-SUFFIX,gamer.com.tw,YouTube
-- DOMAIN-SUFFIX,hinet.net,YouTube
+- DOMAIN-SUFFIX,bahamut.com.tw,ForeignMedia
+- DOMAIN-SUFFIX,gamer.com.tw,ForeignMedia
+- DOMAIN-SUFFIX,hinet.net,ForeignMedia
 
 # BBC
 - DOMAIN-SUFFIX,bbc.co.uk,BBC
@@ -40,15 +40,15 @@
 - DOMAIN-SUFFIX,happyon.jp,Netflix
 
 # Jwplayer
-- DOMAIN,content.jwplatform.com,YouTube
-- DOMAIN,videos-f.jwpsrv.com,YouTube
+- DOMAIN,content.jwplatform.com,ForeignMedia
+- DOMAIN,videos-f.jwpsrv.com,ForeignMedia
 
 # JOOX
 - DOMAIN-SUFFIX,joox.com,Netflix
 
 # myTV Super
-- DOMAIN-SUFFIX,mytvsuper.com,YouTube
-- DOMAIN-SUFFIX,tvb.com,YouTube
+- DOMAIN-SUFFIX,mytvsuper.com,ForeignMedia
+- DOMAIN-SUFFIX,tvb.com,ForeignMedia
 
 # Netflix
 - DOMAIN-SUFFIX,netflix.com,Netflix
@@ -60,18 +60,18 @@
 - DOMAIN-SUFFIX,nflxvideo.net,Netflix
 
 # Spotify
-- DOMAIN-SUFFIX,scdn.co,YouTube
-- DOMAIN-SUFFIX,spotify.com,YouTube
-- DOMAIN-SUFFIX,spoti.fi,YouTube
+- DOMAIN-SUFFIX,scdn.co,ForeignMedia
+- DOMAIN-SUFFIX,spotify.com,ForeignMedia
+- DOMAIN-SUFFIX,spoti.fi,ForeignMedia
 
-# YouTube
-- DOMAIN-SUFFIX,googlevideo.com,YouTube
-- DOMAIN-SUFFIX,youtube.com,YouTube
-- DOMAIN,youtubei.googleapis.com,YouTube
-- DOMAIN-SUFFIX,gv.com,YouTube
-- DOMAIN-SUFFIX,gvt0.com,YouTube
-- DOMAIN-SUFFIX,gvt1.com,YouTube
-- DOMAIN-SUFFIX,gvt3.com,YouTube
+# ForeignMedia
+- DOMAIN-SUFFIX,googlevideo.com,ForeignMedia
+- DOMAIN-SUFFIX,ForeignMedia.com,ForeignMedia
+- DOMAIN,ForeignMediai.googleapis.com,ForeignMedia
+- DOMAIN-SUFFIX,gv.com,ForeignMedia
+- DOMAIN-SUFFIX,gvt0.com,ForeignMedia
+- DOMAIN-SUFFIX,gvt1.com,ForeignMedia
+- DOMAIN-SUFFIX,gvt3.com,ForeignMedia
 
 # Pandora
 - DOMAIN-SUFFIX,pandora.com,🇺🇸US
@@ -734,7 +734,7 @@
 - DOMAIN-SUFFIX,whatbrowser.org,Proxy
 - DOMAIN-SUFFIX,widevine.com,Proxy
 - DOMAIN-SUFFIX,x.company,Proxy
-- DOMAIN-SUFFIX,xn--ngstr-lra8j.com,YouTube
+- DOMAIN-SUFFIX,xn--ngstr-lra8j.com,ForeignMedia
 - DOMAIN-SUFFIX,gvt2.com,Proxy
 - DOMAIN-SUFFIX,youtu.be,Proxy
 - DOMAIN-SUFFIX,yt.be,Proxy
@@ -760,7 +760,7 @@
 - DOMAIN-KEYWORD,facebook,Proxy
 
 # Twitter
-- DOMAIN,video.twimg.com,YouTube
+- DOMAIN,video.twimg.com,ForeignMedia
 - DOMAIN-SUFFIX,t.co,Proxy
 - DOMAIN-SUFFIX,twimg.co,Proxy
 - DOMAIN-SUFFIX,twimg.com,Proxy
@@ -836,7 +836,7 @@
 - DOMAIN-SUFFIX,uptodown.com,Proxy
 - DOMAIN-SUFFIX,v2ray.com,Proxy
 - DOMAIN-SUFFIX,vimeo.com,Proxy
-- DOMAIN-SUFFIX,akamaized.net,YouTube # vimeo video is using this CDN service
+- DOMAIN-SUFFIX,akamaized.net,ForeignMedia # vimeo video is using this CDN service
 - DOMAIN-SUFFIX,vine.co,Proxy
 - DOMAIN-SUFFIX,voachinese.com,Proxy
 - DOMAIN-SUFFIX,whoer.net,Proxy
@@ -1030,7 +1030,7 @@
 - DOMAIN,cdn.jsdelivr.net,DIRECT
 - DOMAIN-SUFFIX,amazonaws.com,Download
 - GEOIP,CN,DIRECT
-- DOMAIN-KEYWORD,video,YouTube
+- DOMAIN-KEYWORD,video,ForeignMedia
 - DOMAIN-KEYWORD,download,Download
 
 # Local
