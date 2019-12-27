@@ -1,4 +1,4 @@
-- DOMAIN,cdn.jsdelivr.net,Direct
+- DOMAIN,cdn.jsdelivr.net,DIRECT
 - DOMAIN-KEYWORD,video,ForeignMedia
 - DOMAIN,video.twimg.com,ForeignMedia
 - DOMAIN-SUFFIX,amazonaws.com,Download
