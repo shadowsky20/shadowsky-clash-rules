@@ -1,0 +1,8 @@
+- DOMAIN,cdn.jsdelivr.net,Direct
+- DOMAIN-KEYWORD,video,ForeignMedia
+- DOMAIN,video.twimg.com,ForeignMedia
+- DOMAIN-SUFFIX,amazonaws.com,Download
+- DOMAIN,codeload.github.com,Download
+- DOMAIN-SUFFIX,gvt2.com,Proxy
+- DOMAIN-SUFFIX,xn--ngstr-lra8j.com,ForeignMedia
+- DOMAIN-KEYWORD,download,Download
