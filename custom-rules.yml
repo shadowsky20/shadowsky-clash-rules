@@ -6,7 +6,6 @@
 - DOMAIN-SUFFIX,gvt2.com,Proxy
 - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,ForeignMedia
 - DOMAIN-KEYWORD,download,Download
-- DOMAIN-SUFFIX,pandora.com,\U0001F1FA\U0001F1F8 US
 
 - DOMAIN-SUFFIX,local,DIRECT
 - IP-CIDR,127.0.0.0/8,DIRECT
