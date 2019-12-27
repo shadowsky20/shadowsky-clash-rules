@@ -15,7 +15,7 @@ RULE-SET,https://raw.githubusercontent.com/shadowsky20/Profiles/master/Surge/Rul
 # 自定义多区域媒体应用
 # (更多自定义请查阅 https://github.com/shadowsky20/Profiles/tree/master/Surge/Ruleset/Media)
 RULE-SET,https://raw.githubusercontent.com/shadowsky20/Profiles/master/Surge/Ruleset/Media/YouTube.list,ForeignMedia
-# RULE-SET,https://raw.githubusercontent.com/shadowsky20/Profiles/master/Surge/Ruleset/Media/Pandora.list,🇺🇸 US
+"RULE-SET,https://raw.githubusercontent.com/shadowsky20/Profiles/master/Surge/Ruleset/Media/Pandora.list,🇺🇸 US"
 RULE-SET,https://raw.githubusercontent.com/shadowsky20/Profiles/master/Surge/Ruleset/Media/Netflix.list,Netflix
 RULE-SET,https://raw.githubusercontent.com/shadowsky20/Profiles/master/Surge/Ruleset/Media/HBO.list,Netflix
 RULE-SET,https://raw.githubusercontent.com/shadowsky20/Profiles/master/Surge/Ruleset/Media/Fox.list,Netflix
