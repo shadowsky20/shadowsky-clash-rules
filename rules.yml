@@ -1030,6 +1030,7 @@
 - DOMAIN-SUFFIX,toutiao.com,DIRECT
 - DOMAIN,cdn.jsdelivr.net,DIRECT
 - DOMAIN-SUFFIX,amazonaws.com,Download
+- DOMAIN-SUFFIX,ampproject.org,Download
 - GEOIP,CN,DIRECT
 - DOMAIN-KEYWORD,video,ForeignMedia
 - DOMAIN-KEYWORD,download,Download
