@@ -61,9 +61,12 @@
 - DOMAIN-SUFFIX,nflxvideo.net,Netflix
 
 # Spotify
+- DOMAIN-SUFFIX,pscdn.co,Spotify
 - DOMAIN-SUFFIX,scdn.co,Spotify
 - DOMAIN-SUFFIX,spotify.com,Spotify
 - DOMAIN-SUFFIX,spoti.fi,Spotify
+- DOMAIN-KEYWORD,spotify.com,Spotify
+- DOMAIN-KEYWORD,-spotify-com,Spotify
 
 # YouTube
 - DOMAIN-SUFFIX,googlevideo.com,ForeignMedia
