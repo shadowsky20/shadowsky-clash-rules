@@ -46,7 +46,7 @@ dns:
 # - 打断连接
 cfw-conn-break-strategy:
   proxy: all              # none/chain/all
-  profile: true            # true/false
+  profile: false            # true/false
   mode: true              # true/false
 # - 延迟测试超时时间
 cfw-latency-timeout: 5000
