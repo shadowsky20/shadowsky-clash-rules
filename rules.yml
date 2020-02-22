@@ -876,178 +876,177 @@
 
 # China Site
 
-- DOMAIN-SUFFIX,cn,DIRECT
+- DOMAIN-SUFFIX,cn,China
 
 # 阿里
-- DOMAIN-SUFFIX,alibaba.com,DIRECT
-- DOMAIN-SUFFIX,alicdn.com,DIRECT
-- DOMAIN-SUFFIX,alipay.com,DIRECT
-- DOMAIN-SUFFIX,alipayobjects.com,DIRECT
-- DOMAIN-SUFFIX,aliyun.com,DIRECT
-- DOMAIN-SUFFIX,taobao.com,DIRECT
-- DOMAIN-SUFFIX,tmall.com,DIRECT
+- DOMAIN-SUFFIX,alibaba.com,China
+- DOMAIN-SUFFIX,alicdn.com,China
+- DOMAIN-SUFFIX,alipay.com,China
+- DOMAIN-SUFFIX,alipayobjects.com,China
+- DOMAIN-SUFFIX,aliyun.com,China
+- DOMAIN-SUFFIX,taobao.com,China
+- DOMAIN-SUFFIX,tmall.com,China
 
 # 优酷
-- DOMAIN-SUFFIX,soku.com,DIRECT
-- DOMAIN-SUFFIX,ykimg.com,DIRECT
-- DOMAIN-SUFFIX,youku.com,DIRECT
+- DOMAIN-SUFFIX,soku.com,China
+- DOMAIN-SUFFIX,ykimg.com,China
+- DOMAIN-SUFFIX,youku.com,China
 
 # 微博
-- DOMAIN-SUFFIX,miaopai.com,DIRECT
-- DOMAIN-SUFFIX,sinaimg.com,DIRECT
-- DOMAIN-SUFFIX,weibo.cn,DIRECT
-- DOMAIN-SUFFIX,weibo.com,DIRECT
+- DOMAIN-SUFFIX,miaopai.com,China
+- DOMAIN-SUFFIX,sinaimg.com,China
+- DOMAIN-SUFFIX,weibo.cn,China
+- DOMAIN-SUFFIX,weibo.com,China
 
 # 饿了么
-- DOMAIN-SUFFIX,ele.me,DIRECT
-- DOMAIN-SUFFIX,elemecdn.com,DIRECT
+- DOMAIN-SUFFIX,ele.me,China
+- DOMAIN-SUFFIX,elemecdn.com,China
 
 # 高德
-- DOMAIN-SUFFIX,amap.com,DIRECT
+- DOMAIN-SUFFIX,amap.com,China
 
 # 友盟
-- DOMAIN-SUFFIX,umeng.com,DIRECT
-- DOMAIN-SUFFIX,umsns.com,DIRECT
+- DOMAIN-SUFFIX,umeng.com,China
+- DOMAIN-SUFFIX,umsns.com,China
 
 # 京东
-- DOMAIN-SUFFIX,360buyimg.com,DIRECT
-- DOMAIN-SUFFIX,jcloudcache.com,DIRECT
-- DOMAIN-SUFFIX,jd.com,DIRECT
-- DOMAIN-SUFFIX,jdpay.com,DIRECT
-- DOMAIN-SUFFIX,joybuy.com,DIRECT
+- DOMAIN-SUFFIX,360buyimg.com,China
+- DOMAIN-SUFFIX,jcloudcache.com,China
+- DOMAIN-SUFFIX,jd.com,China
+- DOMAIN-SUFFIX,jdpay.com,China
+- DOMAIN-SUFFIX,joybuy.com,China
 
 # 腾讯
-- DOMAIN-SUFFIX,qcloud.com,DIRECT
-- DOMAIN-SUFFIX,qq.com,DIRECT
-- DOMAIN-SUFFIX,tencent.com,DIRECT
+- DOMAIN-SUFFIX,qcloud.com,China
+- DOMAIN-SUFFIX,qq.com,China
+- DOMAIN-SUFFIX,tencent.com,China
 
 # 知乎
-- DOMAIN-SUFFIX,zhihu.com,DIRECT
-- DOMAIN-SUFFIX,zhimg.com,DIRECT
+- DOMAIN-SUFFIX,zhihu.com,China
+- DOMAIN-SUFFIX,zhimg.com,China
 
 # 爱奇艺
-- DOMAIN-SUFFIX,71.com,DIRECT
-- DOMAIN-SUFFIX,iqiyi.com,DIRECT
-- DOMAIN-SUFFIX,iqiyipic.com,DIRECT
-- DOMAIN-SUFFIX,qiyi.com,DIRECT
-- DOMAIN-SUFFIX,qiyipic.com,DIRECT
-- DOMAIN-SUFFIX,qy.net,DIRECT
+- DOMAIN-SUFFIX,71.com,China
+- DOMAIN-SUFFIX,iqiyi.com,China
+- DOMAIN-SUFFIX,iqiyipic.com,China
+- DOMAIN-SUFFIX,qiyi.com,China
+- DOMAIN-SUFFIX,qiyipic.com,China
+- DOMAIN-SUFFIX,qy.net,China
 
 # 百度
-- DOMAIN-SUFFIX,baidu.com,DIRECT
-- DOMAIN-SUFFIX,bdstatic.com,DIRECT
-- DOMAIN-SUFFIX,taihe.com,DIRECT
+- DOMAIN-SUFFIX,baidu.com,China
+- DOMAIN-SUFFIX,bdstatic.com,China
+- DOMAIN-SUFFIX,taihe.com,China
 
 # 360
-- DOMAIN-SUFFIX,360.com,DIRECT
-- DOMAIN-SUFFIX,qhimg.com,DIRECT
-- DOMAIN-SUFFIX,qhimgs4.com,DIRECT
-- DOMAIN-SUFFIX,qhres.com,DIRECT
-- DOMAIN-SUFFIX,qihucdn.com,DIRECT
-- DOMAIN-SUFFIX,so.com,DIRECT
+- DOMAIN-SUFFIX,360.com,China
+- DOMAIN-SUFFIX,qhimg.com,China
+- DOMAIN-SUFFIX,qhimgs4.com,China
+- DOMAIN-SUFFIX,qhres.com,China
+- DOMAIN-SUFFIX,qihucdn.com,China
+- DOMAIN-SUFFIX,so.com,China
 
 # 七牛
-- DOMAIN-SUFFIX,qiniu.com,DIRECT
-- DOMAIN-SUFFIX,qiniucdn.com,DIRECT
-- DOMAIN-SUFFIX,qiniudn.com,DIRECT
+- DOMAIN-SUFFIX,qiniu.com,China
+- DOMAIN-SUFFIX,qiniucdn.com,China
+- DOMAIN-SUFFIX,qiniudn.com,China
 
 # 又拍云
-- DOMAIN-SUFFIX,upyun.com,DIRECT
+- DOMAIN-SUFFIX,upyun.com,China
 
 # YY
-- DOMAIN-SUFFIX,huya.com,DIRECT
-- DOMAIN-SUFFIX,msstatic.com,DIRECT
-- DOMAIN-SUFFIX,yy.com,DIRECT
+- DOMAIN-SUFFIX,huya.com,China
+- DOMAIN-SUFFIX,msstatic.com,China
+- DOMAIN-SUFFIX,yy.com,China
 
 # 星域云（迅雷）
-- DOMAIN-SUFFIX,xunlei.com,DIRECT
-- DOMAIN-SUFFIX,xycdn.com,DIRECT
-- DOMAIN-SUFFIX,xycloud.com,DIRECT
+- DOMAIN-SUFFIX,xunlei.com,China
+- DOMAIN-SUFFIX,xycdn.com,China
+- DOMAIN-SUFFIX,xycloud.com,China
 
 # 蓝汛
-- DOMAIN-SUFFIX,chinacache.com,DIRECT
+- DOMAIN-SUFFIX,chinacache.com,China
 
 # 掘金
-- DOMAIN-SUFFIX,juejin.im,DIRECT
+- DOMAIN-SUFFIX,juejin.im,China
 
 # 稀土
-- DOMAIN-SUFFIX,xitu.io,DIRECT
+- DOMAIN-SUFFIX,xitu.io,China
 
 # 哔哩哔哩
-- DOMAIN-SUFFIX,acg.tv,DIRECT
-- DOMAIN-SUFFIX,acgvideo.com,DIRECT
-- DOMAIN-SUFFIX,bilibili.cn,DIRECT
-- DOMAIN-SUFFIX,bilibili.com,DIRECT
-- DOMAIN-SUFFIX,hdslb.com,DIRECT
+- DOMAIN-SUFFIX,acg.tv,China
+- DOMAIN-SUFFIX,acgvideo.com,China
+- DOMAIN-SUFFIX,bilibili.cn,China
+- DOMAIN-SUFFIX,bilibili.com,China
+- DOMAIN-SUFFIX,hdslb.com,China
 
 # 什么值得买
-- DOMAIN-SUFFIX,smzdm.com,DIRECT
+- DOMAIN-SUFFIX,smzdm.com,China
 
 # 网易
-- DOMAIN-SUFFIX,126.net,DIRECT
-- DOMAIN-SUFFIX,163.com,DIRECT
+- DOMAIN-SUFFIX,126.net,China
+- DOMAIN-SUFFIX,163.com,China
 
 # 美团
-- DOMAIN-SUFFIX,meituan.com,DIRECT
-- DOMAIN-SUFFIX,meituan.net,DIRECT
+- DOMAIN-SUFFIX,meituan.com,China
+- DOMAIN-SUFFIX,meituan.net,China
 
 # 抖音
-- DOMAIN-SUFFIX,aweme.snssdk.com,DIRECT
-- DOMAIN-SUFFIX,douyin.com,DIRECT
+- DOMAIN-SUFFIX,aweme.snssdk.com,China
+- DOMAIN-SUFFIX,douyin.com,China
 
 # 招行
-- DOMAIN-SUFFIX,cmbchina.com,DIRECT
+- DOMAIN-SUFFIX,cmbchina.com,China
 
 # 建行
-- DOMAIN-SUFFIX,ccb.com,DIRECT
+- DOMAIN-SUFFIX,ccb.com,China
 
 # 联通
-- DOMAIN-SUFFIX,10010.com,DIRECT
+- DOMAIN-SUFFIX,10010.com,China
 
 # 斗鱼
-- DOMAIN-SUFFIX,douyu.com,DIRECT
-- DOMAIN-SUFFIX,douyutv.com,DIRECT
+- DOMAIN-SUFFIX,douyu.com,China
+- DOMAIN-SUFFIX,douyutv.com,China
 
 # 熊猫 TV
-- DOMAIN-SUFFIX,panda.tv,DIRECT
+- DOMAIN-SUFFIX,panda.tv,China
 
 # 搜狗
-- DOMAIN-SUFFIX,sogou.com,DIRECT
+- DOMAIN-SUFFIX,sogou.com,China
 
 # 威锋
-- DOMAIN-SUFFIX,feng.com,DIRECT
+- DOMAIN-SUFFIX,feng.com,China
 
 # CloudXNS
-- DOMAIN-SUFFIX,cloudxns.net,DIRECT
+- DOMAIN-SUFFIX,cloudxns.net,China
 
 # 豆瓣
-- DOMAIN-SUFFIX,douban.com,DIRECT
-- DOMAIN-SUFFIX,doubanio.com,DIRECT
+- DOMAIN-SUFFIX,douban.com,China
+- DOMAIN-SUFFIX,doubanio.com,China
 
 # 其他
-- DOMAIN-SUFFIX,chn-ix.net,DIRECT
-- DOMAIN-SUFFIX,fir.im,DIRECT
-- DOMAIN-SUFFIX,hnol.net,DIRECT
-- DOMAIN-SUFFIX,ip138.com,DIRECT
-- DOMAIN-SUFFIX,ipip.net,DIRECT
-- DOMAIN-SUFFIX,pstatp.com,DIRECT
-- DOMAIN-SUFFIX,snssdk.com,DIRECT
-- DOMAIN-SUFFIX,toutiao.com,DIRECT
-- DOMAIN,cdn.jsdelivr.net,DIRECT
+- DOMAIN-SUFFIX,chn-ix.net,China
+- DOMAIN-SUFFIX,fir.im,China
+- DOMAIN-SUFFIX,hnol.net,China
+- DOMAIN-SUFFIX,ip138.com,China
+- DOMAIN-SUFFIX,ipip.net,China
+- DOMAIN-SUFFIX,pstatp.com,China
+- DOMAIN-SUFFIX,snssdk.com,China
+- DOMAIN-SUFFIX,toutiao.com,China
+- DOMAIN,cdn.jsdelivr.net,China
 - DOMAIN-SUFFIX,amazonaws.com,Download
 - DOMAIN-SUFFIX,ampproject.org,Proxy
-- GEOIP,CN,DIRECT
+- GEOIP,CN,China
 - DOMAIN-KEYWORD,video,ForeignMedia
 - DOMAIN-KEYWORD,download,Download
 
 # Local
-
-- DOMAIN-SUFFIX,local,DIRECT
-- IP-CIDR,127.0.0.0/8,DIRECT
-- IP-CIDR,172.16.0.0/12,DIRECT
-- IP-CIDR,192.168.0.0/16,DIRECT
-- IP-CIDR,10.0.0.0/8,DIRECT
-- IP-CIDR,17.0.0.0/8,DIRECT
-- IP-CIDR,100.64.0.0/10,DIRECT
+- DOMAIN-SUFFIX,local,Local
+- IP-CIDR,127.0.0.0/8,Local
+- IP-CIDR,172.16.0.0/12,Local
+- IP-CIDR,192.168.0.0/16,Local
+- IP-CIDR,10.0.0.0/8,Local
+- IP-CIDR,17.0.0.0/8,Local
+- IP-CIDR,100.64.0.0/10,Local
 
 - MATCH,Final
