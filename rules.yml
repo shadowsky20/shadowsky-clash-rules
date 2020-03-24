@@ -863,7 +863,7 @@
 - DOMAIN,ccmdl.adobe.com,Proxy
 - DOMAIN,media.steampowered.com,Proxy
 - DOMAIN,wego.here.com,Proxy
-- DOMAIN,codeload.github.com,Download
+- DOMAIN,codeload.github.com,ForeignMedia
 - DOMAIN-KEYWORD,github,Proxy
 
 # Telegram
@@ -877,6 +877,10 @@
 # China Site
 
 - DOMAIN-SUFFIX,cn,China
+
+# 人人影视
+- DOMAIN-SUFFIX,rrys2019.com,China
+- DOMAIN-SUFFIX,jstucdn.com,China
 
 # 阿里
 - DOMAIN-SUFFIX,alibaba.com,China
@@ -1035,11 +1039,11 @@
 - DOMAIN-SUFFIX,snssdk.com,China
 - DOMAIN-SUFFIX,toutiao.com,China
 - DOMAIN,cdn.jsdelivr.net,China
-- DOMAIN-SUFFIX,amazonaws.com,Download
+- DOMAIN-SUFFIX,amazonaws.com,ForeignMedia
 - DOMAIN-SUFFIX,ampproject.org,Proxy
 - GEOIP,CN,China
 - DOMAIN-KEYWORD,video,ForeignMedia
-- DOMAIN-KEYWORD,download,Download
+- DOMAIN-KEYWORD,download,ForeignMedia
 
 # Local
 - DOMAIN-SUFFIX,local,Local
