@@ -56,15 +56,16 @@ cfw-bypass:
   - music.163.com
   - '*.music.126.net'
 
-Proxy:
+proxies:
   - name: Shadowsocks
     type: socks5
     server: 127.0.0.1
     port: 1080
-Proxy Group:
+
+proxy-groups:
   - name: Proxy
     type: select
     proxies:
       - Shadowsocks
-Rule:
+rule:
   - 'MATCH,DIRECT'
