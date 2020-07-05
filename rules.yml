@@ -978,12 +978,12 @@
 - DOMAIN-SUFFIX,xitu.io,China
 
 # 哔哩哔哩
-- DOMAIN-SUFFIX,acg.tv,China
-- DOMAIN-SUFFIX,acgvideo.com,China
-- DOMAIN-SUFFIX,bilibili.cn,China
-- DOMAIN-SUFFIX,bilibili.com,China
-- DOMAIN-SUFFIX,bilivideo.com,China
-- DOMAIN-SUFFIX,hdslb.com,China
+- DOMAIN-SUFFIX,acg.tv,DomesticMedia
+- DOMAIN-SUFFIX,acgvideo.com,DomesticMedia
+- DOMAIN-SUFFIX,bilibili.cn,DomesticMedia
+- DOMAIN-SUFFIX,bilibili.com,DomesticMedia
+- DOMAIN-SUFFIX,bilivideo.com,DomesticMedia
+- DOMAIN-SUFFIX,hdslb.com,DomesticMedia
 
 # 什么值得买
 - DOMAIN-SUFFIX,smzdm.com,China
