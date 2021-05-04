@@ -779,6 +779,7 @@
 - DOMAIN-SUFFIX,naver.jp,Proxy
 
 # Other
+- DOMAIN-SUFFIX,gravatar.com,Proxy
 - DOMAIN-SUFFIX,abc.net.au,Proxy
 - DOMAIN-SUFFIX,amazon.co.jp,Proxy
 - DOMAIN-SUFFIX,apk-dl.com,Proxy
