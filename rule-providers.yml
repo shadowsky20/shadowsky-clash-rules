@@ -46,13 +46,13 @@ rule-providers:
     url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/ChinaDomain.yaml
     interval: 3600
   ChinaCompanyIp:
-    behavior: "classical"
+    behavior: "ipcidr"
     type: http
     path: Ruleset/ChinaCompanyIp.yaml
     url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/ChinaCompanyIp.yaml
     interval: 3600
   ChinaIp:
-    behavior: "classical"
+    behavior: "ipcidr"
     type: http
     path: Ruleset/ChinaIp.yaml
     url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/ChinaIp.yaml
