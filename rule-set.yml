@@ -6,6 +6,15 @@
 - RULE-SET,BanProgramAD,Advertising
 - RULE-SET,BanEasyListChina,Advertising
 
+# Apple 服务
+- RULE-SET,Apple,Apple
+
+# Telegram
+- RULE-SET,Telegram,Telegram
+
+# 大陆流媒体
+- RULE-SET,ChinaMedia,DomesticMedia
+
 # China 中国直连
 - RULE-SET,ChinaDomain,China
 - RULE-SET,ChinaCompanyIp,China
@@ -21,15 +30,6 @@
 # 影视：Youtube、Netflix、Amazon Prime Video、Fox、HBO、Hulu、PBS、BBC iPlayer、All4、myTV_SUPER、encoreTVB、ViuTV、AbemaTV、Bahamut、KKTV、Line TV、LiTV、Pornhub
 # 音乐：Spotify、JOOX、Pandora、KKBOX
 - RULE-SET,ProxyMedia,ForeignMedia
-
-# 大陆流媒体
-- RULE-SET,ChinaMedia,DomesticMedia
-
-# Telegram
-- RULE-SET,Telegram,Telegram
-
-# Apple 服务
-- RULE-SET,Apple,Apple
 
 # 局域网
 - RULE-SET,LocalAreaNetwork,Local
