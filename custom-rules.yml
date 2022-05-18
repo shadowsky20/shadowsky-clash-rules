@@ -1,3 +1,3 @@
-- DOMAIN,cdn.jsdelivr.net,DIRECT
+- DOMAIN,cdn.jsdelivr.net,Proxy
 - DOMAIN-SUFFIX,gravatar.com,Proxy
 - DOMAIN-SUFFIX,shadowsky.xyz,Proxy
