@@ -1039,7 +1039,7 @@
 - DOMAIN-SUFFIX,pstatp.com,China
 - DOMAIN-SUFFIX,snssdk.com,China
 - DOMAIN-SUFFIX,toutiao.com,China
-- DOMAIN,cdn.jsdelivr.net,China
+- DOMAIN,cdn.jsdelivr.net,Proxy
 - DOMAIN-SUFFIX,amazonaws.com,ForeignMedia
 - DOMAIN-SUFFIX,ampproject.org,Proxy
 - GEOIP,CN,China
