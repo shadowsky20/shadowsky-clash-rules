@@ -3,7 +3,7 @@ rule-providers:
     behavior: "classical"
     type: http
     path: Ruleset/UnBan.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/UnBan.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/UnBan.yaml
     interval: 3600
 
   # Ad
@@ -11,19 +11,19 @@ rule-providers:
     behavior: "classical"
     type: http
     path: Ruleset/BanAD.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/BanAD.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/BanAD.yaml
     interval: 3600
   BanProgramAD:
     behavior: "classical"
     type: http
     path: Ruleset/BanProgramAD.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/BanProgramAD.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/BanProgramAD.yaml
     interval: 3600
   BanEasyListChina:
     behavior: "classical"
     type: http
     path: Ruleset/BanEasyListChina.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/BanEasyListChina.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/BanEasyListChina.yaml
     interval: 3600
 
   # Direct
@@ -31,31 +31,31 @@ rule-providers:
     behavior: "classical"
     type: http
     path: Ruleset/LocalAreaNetwork.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/LocalAreaNetwork.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/LocalAreaNetwork.yaml
     interval: 3600
   ChinaMedia:
     behavior: "classical"
     type: http
     path: Ruleset/ChinaMedia.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/ChinaMedia.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/ChinaMedia.yaml
     interval: 3600
   ChinaDomain:
     behavior: "classical"
     type: http
     path: Ruleset/ChinaDomain.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/ChinaDomain.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/ChinaDomain.yaml
     interval: 3600
   ChinaCompanyIp:
     behavior: "ipcidr"
     type: http
     path: Ruleset/ChinaCompanyIp.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/ChinaCompanyIp.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/ChinaCompanyIp.yaml
     interval: 3600
   ChinaIp:
     behavior: "ipcidr"
     type: http
     path: Ruleset/ChinaIp.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/ChinaIp.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/ChinaIp.yaml
     interval: 3600
 
   # Custom
@@ -63,67 +63,67 @@ rule-providers:
     behavior: "classical"
     type: http
     path: Ruleset/Download.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/Download.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/Download.yaml
     interval: 3600
   Apple:
     behavior: "classical"
     type: http
     path: Ruleset/Apple.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/Ruleset/Apple.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/Ruleset/Apple.yaml
     interval: 3600
   Microsoft:
     behavior: "classical"
     type: http
     path: Ruleset/Microsoft.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/Ruleset/Microsoft.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/Ruleset/Microsoft.yaml
     interval: 3600
   OneDrive:
     behavior: "classical"
     type: http
     path: Ruleset/OneDrive.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/Ruleset/OneDrive.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/Ruleset/OneDrive.yaml
     interval: 3600
   GoogleCN:
     behavior: "classical"
     type: http
     path: Ruleset/GoogleCN.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/Ruleset/GoogleCN.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/Ruleset/GoogleCN.yaml
     interval: 3600
   Telegram:
     behavior: "classical"
     type: http
     path: Ruleset/Telegram.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/Ruleset/Telegram.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/Ruleset/Telegram.yaml
     interval: 3600
   Netflix:
     behavior: "classical"
     type: http
     path: Ruleset/Netflix.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/Ruleset/Netflix.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/Ruleset/Netflix.yaml
     interval: 3600
   Spotify:
     behavior: "classical"
     type: http
     path: Ruleset/Spotify.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/Ruleset/Spotify.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/Ruleset/Spotify.yaml
     interval: 3600
   Pandora:
     behavior: "classical"
     type: http
     path: Ruleset/Pandora.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/Ruleset/Pandora.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/Ruleset/Pandora.yaml
     interval: 3600
   HBO:
     behavior: "classical"
     type: http
     path: Ruleset/HBO.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/Ruleset/HBO.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/Ruleset/HBO.yaml
     interval: 3600
   FoxNow:
     behavior: "classical"
     type: http
     path: Ruleset/FoxNow.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/Ruleset/FoxNow.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/Ruleset/FoxNow.yaml
     interval: 3600
 
   # Proxy
@@ -131,11 +131,11 @@ rule-providers:
     behavior: "classical"
     type: http
     path: Ruleset/ProxyMedia.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/ProxyMedia.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/ProxyMedia.yaml
     interval: 3600
   ProxyGFWlist:
     behavior: "classical"
     type: http
     path: Ruleset/ProxyGFWlist.yaml
-    url: https://cdn.jsdelivr.net/gh/shadowsky20/ACL4SSR@latest/Clash/Providers/ProxyGFWlist.yaml
+    url: https://unpkg.com/acl4ssr@1.0.0/Clash/Providers/ProxyGFWlist.yaml
     interval: 3600
