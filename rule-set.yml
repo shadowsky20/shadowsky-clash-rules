@@ -21,7 +21,7 @@
 - RULE-SET,ChinaIp,China
 
 # 自定义多区域媒体应用
-- RULE-SET,Pandora,🇺🇸 US
+# - RULE-SET,Pandora,🇺🇸 US
 - RULE-SET,Netflix,Netflix
 - RULE-SET,HBO,Netflix
 - RULE-SET,FoxNow,Netflix
